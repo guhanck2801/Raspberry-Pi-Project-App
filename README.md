@@ -1,0 +1,2 @@
+This project contains the react native code that I used to build an application for a RasberryPI project. The app was used to display the voltage data about 3 different batteries. This data would be collected by the Pi and then pinged across a network to the application, which uses Linechart top create a line graph
+displaying the latest 10 readings from each battery. The app updates itself with each ping.
